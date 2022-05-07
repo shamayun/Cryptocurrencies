@@ -43,7 +43,7 @@ Most of the cryptocurrencies are part of class #0 and #1.
 Plotting the scatter plot from two cryptocurrency features does not efficiently segregate the different classes. Utilized the PCA algorithm, as it is the right method for better visualizations.
 
 ## Summary
-I have identified the classification of 532 cryptocurrencies based on similarities of their features. Particularities of each group need to be analyzed to determined their performance and potential interest for the investment bank's clients.
+I have identified the classification of 532 cryptocurrencies based on similarities of their features. Particularities of each group need to be analyzed to determine their performance and potential interest for the investment bank's clients.
 
 
 
